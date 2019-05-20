@@ -1,5 +1,3 @@
-# webhost
-
 ---
 title: "About"
 permalink: /about/
